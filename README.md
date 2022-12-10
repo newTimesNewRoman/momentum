@@ -1,5 +1,4 @@
 # momentum
-[Ссылка на задание Rolling Scopes School](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md)
 
 [Ссылка на сайт](https://newtimesnewroman-momentum.netlify.app/)
 
@@ -16,4 +15,4 @@
 - деление js-кода на модули;
 - работа с асинхронными запросами. 
 
-![screenshot](../images/momentum.png)
+[Ссылка на задание Rolling Scopes School](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md)
